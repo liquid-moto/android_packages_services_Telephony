@@ -1520,4 +1520,10 @@
     <!-- String resource for the font-family to use for the call setting activity's title
          Do not translate. -->
     <string name="call_settings_title_font_family">sans-serif-light</string>
+
+    <string name="voice_quality_entry_normal">Normal</string>
+    <string name="voice_quality_entry_crisp">Crisp</string>
+    <string name="voice_quality_entry_clear">Clear</string>
+    <string name="voice_quality_entry_bright">Bright</string>
+
 </resources>
